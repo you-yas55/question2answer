@@ -3,7 +3,7 @@ Question&Answer
 
 This has been Forked from Question2Answer, the project is mainly distenated to make a new Q&A System based on Q2A.
 
-[Question&Answer][stopbyte] (Q&A) is sponsored by [Stopbyte Programmers Community][stopbyte]
+(Q&A) is sponsored by [Stopbyte Programmers Community][stopbyte]
 
 
 [stopbyte]: http://www.stopbyte.com/
